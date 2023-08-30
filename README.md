@@ -1,5 +1,5 @@
   <h3 align="center">Lorem Ipsum Generator For JS file</h3>
-#### By This package , you will be able to generate dummy lorem Ipsum in your JavaScript file.
+ By This package , you will be able to generate dummy lorem Ipsum in your JavaScript file.
 
 ## Getting Started or Installation Guide
 
