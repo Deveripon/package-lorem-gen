@@ -42,4 +42,4 @@ Or You can define your own required Word Count after lorem and press Tab.
 ## Contact
 
 -   devripon - [email](mailto:devripon.io@gmail.com)
--   devripon - [github](https://github.com/devripon)
+-   devripon - [github](https://github.com/deveripon)
