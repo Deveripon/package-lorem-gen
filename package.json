@@ -1,0 +1,22 @@
+{
+    "name": "lorem-gen",
+    "version": "1.0.0",
+    "description": "This is a simple lorem ipsum generator to use lorem ipsum in javascript file",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Deveripon/package-lorem-gen.git"
+    },
+    "keywords": [
+        "lorem",
+        "lorem-gen",
+        "lorem-ipsum"
+    ],
+    "author": "devripon",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Deveripon/package-lorem-gen/issues"
+    },
+    "homepage": "https://github.com/Deveripon/package-lorem-gen#readme"
+}

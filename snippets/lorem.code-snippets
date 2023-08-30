@@ -1,0 +1,21 @@
+{
+    "Lorem Ipsum Generator": {
+        "prefix": "lorem",
+        "body": [
+            "const loremIpsum = (wordCount) => {",
+            "  const loremText = \"Lorem ipsum dolor sit amet, consectetur adipiscing elit...\";",
+            "  const words = loremText.split(' ');",
+            "  let generatedText = '';",
+            "  let currentWordCount = 0;",
+            "  while (currentWordCount < wordCount) {",
+            "    generatedText += words[currentWordCount % words.length] + ' ';",
+            "    currentWordCount++;",
+            "  }",
+            "  return generatedText.trim();",
+            "};",
+            "",
+            "console.log(loremIpsum(${1:20}));"
+        ],
+        "description": "Generate Lorem Ipsum text with a specific word count"
+    }
+}
