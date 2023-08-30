@@ -34,7 +34,7 @@ Please follow the below instructions to get started or using this package
 In your Visual Stuido Code `.js` file :
 
 ```js
-lorem30;
+lorem30
 ```
 
 Or You can define your own required Word Count after lorem and press Tab.
